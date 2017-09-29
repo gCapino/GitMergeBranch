@@ -13,6 +13,7 @@ namespace GitMergeBranch
             //change in master
 
             //change in BranchA
+            //grimblbär
         }
         private void ChangeInMaster()
         {
