@@ -14,6 +14,7 @@ namespace GitMergeBranch
 
             //change in BranchA
             //grimblbär
+            // mein branch test
         }
         private void ChangeInMaster()
         {
